@@ -1,0 +1,33 @@
+body {
+  background-color: grey;
+}
+
+.box {
+  width:40rem;
+  height: 10rem;
+  border: 1px solid white;
+  flex-direction: column;
+  margin: 10px auto;
+}
+
+p {
+  color: whitesmoke;
+  position: relative;
+  bottom: 25px;
+  left: 10px;
+}
+
+#alert {
+  color: white;
+  font-size: 2rem;
+  transform: rotate(180deg);
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+#print {
+ 
+  color: white;
+  width: 15rem;
+  height: 2rem;
+  border: 1px solid grey;
+}
